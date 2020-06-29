@@ -1,0 +1,13 @@
+name: ShinyParkingApp
+title: ShinyParkingApp
+username:
+account: tdagostino
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2338359
+bundleId: 3198653
+url: https://tdagostino.shinyapps.io/ShinyParkingApp/
+when: 1590638453.66466
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: austin_test.csv
